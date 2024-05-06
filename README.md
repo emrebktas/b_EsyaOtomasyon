@@ -1,5 +1,5 @@
 # Beyaz Eşya Otomasyon Sistemi
-##zip dosyasını indirip ayıklamanız gerekiyor
+## zip dosyasını indirip ayıklamanız gerekiyor
 
 ## Proje Özeti 
 Sistemimizde beyaz eşyalara ait özellikler arayüz eşliğinde veritabanında saklanıp işlem yapılıyor.
