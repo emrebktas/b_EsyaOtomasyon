@@ -1,5 +1,5 @@
 # Beyaz Eşya Otomasyon Sistemi
-This is <font color='red'>red colored</font> text.
+-zip dosyasını indirip ayıklayın-
 ## Proje Özeti 
 Sistemimizde beyaz eşyalara ait özellikler arayüz eşliğinde veritabanında saklanıp işlem yapılıyor.
 
