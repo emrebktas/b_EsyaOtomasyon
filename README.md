@@ -1,7 +1,10 @@
 # Beyaz Eşya Otomasyon Sistemi
 
-## Proje Özeti (zip dosyasını indirip ayıklayın)
+
+## Proje Özeti 
 Sistemimizde beyaz eşyalara ait özellikler arayüz eşliğinde veritabanında saklanıp işlem yapılıyor.
+
+
 ## Geliştirme Ortamı
 Proje C# Forms ve mySql kullanılarak geliştirildi. 
 
